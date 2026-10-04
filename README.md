@@ -10,7 +10,7 @@ the "FINAL CODE" is the absolute final version of the code.
 <br>
  <br>    We hoped you enjoyed playing the game! This is the first time I've used github for something other than Turbowarp's Unpackager, so please give us tips on improvement! We didn't focus on making the "coolest" or "winning-idea" game. Rather, we wanted to make a way to help people find the courage to speak up and meet new people.
       <hr>    Happy connecting!
-               - Stanislaus L.
+               - Stanislaus 
 <hr>
 [Connection game]
 <br>
