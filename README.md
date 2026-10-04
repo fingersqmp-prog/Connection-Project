@@ -1,5 +1,5 @@
 the platform code is just an extra idea
-the "FINAL CODE" is the absolute final version of the game.
+the "FINAL CODE" is the absolute final version of the code.
  - Connections is a game Stanislaus and Quiton made to highlight the realistic experiences of networking. -
  <br>  Some people aren't used to networking, while others are too scared to walk up to someone and say hi.
 <br>
