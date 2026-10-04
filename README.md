@@ -7,5 +7,5 @@ the "FINAL CODE" is the absolute final version of the game.
    We plan on adding more features, like more levels with different goals or challenges, to better represent how useful networking can be due to its diversity.
    Quiton and I also made sure that some levels could be solved in different ways to showcase how networking doesn't require one path or solution.
      We hoped you enjoyed playing the game! This is the first time I've used github for something other than Turbowarp's Unpackager, so please give us tips on improvement! We didn't focus on making the "coolest" or "winning-idea" game. Rather, we wanted to make a way to help people find the courage to speak up and meet new people.
-          Happy connecting!
+      <hr>    Happy connecting!
                - Stanislaus L.
