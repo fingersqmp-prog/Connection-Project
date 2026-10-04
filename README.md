@@ -14,4 +14,4 @@ the "FINAL CODE" is the absolute final version of the code.
 <hr>
 [Connection game]
 <br>
-https://386b1b88-1c95-4725-9b26-f3c46eb61e8d.websites.juicemind.com/
+<a href="https://386b1b88-1c95-4725-9b26-f3c46eb61e8d.websites.juicemind.com/" target="_blank">CLICK ME</a>
